@@ -1,0 +1,871 @@
+Area: 해외
+Title: Canada: Government launches consultation on implementing Global CBPR Forum certifications for cross-border data flows
+URL: https://www.dataguidance.com/node/643042
+Content: Why we use cookies and other tracking technologies?
+Our site enables script (e.g. cookies) that is able to read, store, and write information on your browser and in your device. The information processed by this script includes data relating to you which may include personal identifiers (e.g. IP address and session details) and browsing activity. We use this information for various purposes - e.g. to deliver content, maintain security, enable user choice, improve our sites, and for marketing purposes. You can reject all non-essential processing by choosing to accept only necessary cookies. To personalize your choice and learn more click here to adjust your preferencesCookie Notice
+
+Area: 해외
+Title: EU: EPRS publishes document on challenges to UK data adequacy
+URL: https://www.dataguidance.com/node/643043
+Content: Why we use cookies and other tracking technologies?
+Our site enables script (e.g. cookies) that is able to read, store, and write information on your browser and in your device. The information processed by this script includes data relating to you which may include personal identifiers (e.g. IP address and session details) and browsing activity. We use this information for various purposes - e.g. to deliver content, maintain security, enable user choice, improve our sites, and for marketing purposes. You can reject all non-essential processing by choosing to accept only necessary cookies. To personalize your choice and learn more click here to adjust your preferencesCookie Notice
+
+Area: 해외
+Title: California: CPPA fines Honda $632,000 for CCPA violations
+URL: https://www.dataguidance.com/news/california-cppa-fines-honda-632000-ccpa-violations
+Content: Why we use cookies and other tracking technologies?
+Our site enables script (e.g. cookies) that is able to read, store, and write information on your browser and in your device. The information processed by this script includes data relating to you which may include personal identifiers (e.g. IP address and session details) and browsing activity. We use this information for various purposes - e.g. to deliver content, maintain security, enable user choice, improve our sites, and for marketing purposes. You can reject all non-essential processing by choosing to accept only necessary cookies. To personalize your choice and learn more click here to adjust your preferencesCookie Notice
+
+Area: 해외
+Title: [개인정보 조사] International: Honda, CPPA와 개인정보 보호 위반 관련 합의 (CPPA,03.12.)
+URL: https://cppa.ca.gov/announcements/2025/20250312.html
+Content: Honda Settles With CPPA Over Privacy Violations
+Automaker Will Change Business Practices and Pay $630k+ Fine
+News: March 12, 2025
+
+SACRAMENTO – The California Privacy Protection Agency (CPPA) Board has issued a decision that requires American Honda Motor Co. to change its business practices and pay a $632,500 fine to resolve claims that the company violated the California Consumer Privacy Act (CCPA). The investigation arose from the Enforcement Division’s ongoing review of data privacy practices by connected vehicle manufacturers and related technologies.
+
+The CPPA’s Enforcement Division alleged that Honda violated Californians’ privacy rights by:
+
+
+To resolve the allegations, Honda agreed to implement a new and simpler process for Californians to assert their privacy rights. The company is required to certify its compliance, train its employees, and consult a user experience (UX) designer to evaluate its methods for submitting privacy requests. Honda must also change its contracting process to ensure appropriate mechanisms are in place to protect personal information.
+
+In addition, Honda will pay a $632,500 fine. The CCPA authorizes the Agency to impose an administrative fine of up to $2,500 for each violation ($7,500 for each intentional violation), plus an increase for inflation, in addition to ordering businesses to cease engaging in violative business practices. The order spells out the number of consumers whose rights were implicated by some of Honda’s practices, underscoring that fines apply on a per violation basis.
+
+“The remedy should fit the problem behavior,” said Michael Macko, head of the Agency’s Enforcement Division. “We won’t hesitate to use our cease-and-desist authority to change business practices, and we’ll tally fines based on the number of violations. Today’s resolution reflects Honda’s early cooperation and commitment to make things right,” said Macko.
+
+“The CPPA’s mission is to protect privacy for all Californians. We are dedicated to holding businesses accountable when their practices threaten Californians’ privacy rights,” said Tiffany Garcia, the Agency’s Interim Executive Director. “This agreement underscores our commitment to advocating for improved business practices that truly benefit consumers.”
+
+About Us
+
+The California Privacy Protection Agency is committed to promoting the education and awareness of consumers' privacy rights and businesses' responsibilities under the California Consumer Privacy Act.
+
+Individuals can visit privacy.ca.gov to access helpful and up–to–date information on how to exercise their rights and protect their personal information. In addition, the Agency's website provides important information about CPPA board meetings, announcements, and the rulemaking process.
+
+Copyright © 2025 State of California
+
+Area: 해외
+Title: [정책/제도] 미국: 위치 정보 보호 강화 추진 (IAPP, 03.08.)
+URL: https://iapp.org/news/a/geolocation-privacy-takes-center-stage-on-us-regulators-agendas/
+Content: Loading...
+
+Area: 해외
+Title: [정책/제도] 멕시코: 개인 정보 보호를 위한 새로운 기관 설립 (IAPP, 03.11.)
+URL: https://iapp.org/news/a/new-authority-established-for-personal-data-protection-in-mexico
+Content: Loading...
+
+Area: 해외
+Title: [데이터 안전 활용/신기술] 스페인: 정부, AI법 초안 승인(MTDFP,03.12.)
+URL: https://digital.gob.es/portalmtdfp/comunicacion/sala-de-prensa/comunicacion_ministro/2025/03/2025-03-11.html
+Content: 
+
+Area: 해외
+Title: [데이터 안전 활용/신기술] 중국: 최초의 완전 자율 AI 에이전트 'Manus' 공개 (THE PINNACLE GAZETTE, 03.11.)
+URL: https://evrimagaci.org/tpg/china-unveils-manus-the-first-truly-autonomous-ai-agent-257912#google_vignette
+Content: Technology
+11 March 2025
+China Unveils Manus, The First Truly Autonomous AI Agent
+The launch of Manus signals new potential for AI capabilities, raising both hopes and concerns within the tech community.
+
+Chinese startup Manus has recently unveiled what it claims to be the world’s first fully autonomous AI agent. Officially introduced on March 5, 2025, Manus, derived from the Latin word meaning 'hand,' seeks to transform complex problems and ideas directly from user input—effectively revolutionizing the relationship between humans and artificial intelligence.
+
+Yichao "Peak" Ji, Chief Scientist for Manus, describes the technology as "more than just another chatbot or workflow. It’s a truly autonomous agent... We see it as the next paradigm of human-machine collaboration and potentially a glimpse of AGI,” or artificial general intelligence.
+
+Manus operates as what experts term a 'multi-agent system,' utilizing several distinct AI models to execute tasks independently. Unlike traditional AI chatbots, which may respond to queries but rely heavily on human intervention, Manus autonomously handles complex tasks including market research and data analysis.
+
+For example, if tasked with finding real estate options, Manus doesn’t stop at merely returning listings. It also evaluates crime rates, assesses market trends, and assesses nearby schools, delivering comprehensive recommendations. This feature could significantly benefit users seeking new apartments or homes, showcasing Manus's potential for real-world applications.
+
+Manus can even screen job applications, ranking candidates based on specified criteria, and can create spreadsheets summarizing the data it processes. Users have reported positive experiences, with several tasks being completed efficiently and accurately, often described as if having someone else perform the work upon their request.
+
+Testing and demonstration videos released by the team displayed Manus's impressive capabilities. It was shown performing multiple tasks simultaneously and generating documents from real-time web data. Manus can operate asynchronously, allowing users to set it tasks and walk away, returning to completed work without needing to supervise the process.
+
+Its rapid ascent has ignited discussions about data privacy and security, concerns raised by observers worried about Manus's operational framework and potential data transfers due to its origins. "From a data protection perspective, the key questions are: Where are its servers located? Is there any corporate affiliation to China?" noted AI and privacy expert Luiza Jarovsky.
+
+Despite the enthusiasm surrounding Manus's capabilities, skepticism exists about the reality of its performance. Early testers like TechCrunch’s Kyle Wiggers found some results underwhelming, with critiques ranging from slow execution to output quality not meeting expectations. "Some early testers have found its performance disappointing," highlighted Axios, reflecting general caution amid the excitement.
+
+Manus is currently available through invitation-only testing, with high demand leading to reported instances of access codes being sold on secondary markets. Zhang Tao, Manus AI’s product partner, acknowledged this challenge, attributing the invite-only nature to limited server resources, which had not anticipated the swift public interest.
+
+The backdrop of Manus’s release resonates with the larger discourse surrounding AI advancements, particularly the competitive climate between international sectors. The debut of Manus has ignited speculation about whether it marks China’s second major breakthrough similar to the hype around DeepSeek earlier this year. "It looks like Manus AI presents itself as a Chinese company maintaining a legal entity elsewhere," remarked Jarovsky.
+
+This has prompted both excitement and wariness among AI industry observers, particularly concerning the broader questions of AI capabilities and ethical use. Advocates argue for the real-world applications and efficiencies such agents might provide, contrasting against the cautionary tales of potentially hazardous misuse or over-reliance on automated systems.
+
+While Manus's developers tout it as setting new benchmarks alongside other leading AI tools, including OpenAI’s Deep Research, the outcome of this launch remains to be fully evaluated over time. If successful, Manus could pave the way for new standards and practices within the AI sector; if it falters, it may serve as yet another cautionary tale.
+
+For now, the public waits to see whether Manus will deliver on the promise of autonomy and performance it claims, learning whether it truly is the next leap forward for AI or simply another overhyped product.
+
+Sources
+bdtechtalks.com
+bdtechtalks.com/2025/03/10/manus-ai-agent...
+novyny.live
+novyny.live/en/tehnologii/kitaitsi-predstavili-avt...
+qz.com
+qz.com/manus-ai-agent-autonomous-china-openai-1851...
+venturebeat.com
+venturebeat.com/ai/what-you-need-to-know-about-man...
+axios.com
+axios.com/2025/03/10/manus-chinese-ai-agent-deepse...
+theregister.com
+theregister.com/2025/03/10/manus_chinese_general_a...
+Subscribe to Our Newsletter
+Stay informed with the latest news and updates
+We promise not to spam you and only send you at most 3 emails per week with the most important updates.
+I agree to receive emails and accept the Privacy Policy.
+THE PINNACLE GAZETTE
+by Evrim Ağacı
+
+THE PINNACLE GAZETTE, a platform established by Bayesian Tinkering Labs LLC, is your premier source for the latest news across a diverse array of topics. Our website offers comprehensive coverage on science, technology, current events, art, and sports, ensuring that you stay informed and gain fresh perspectives.
+
+     
+Sports
+Arts & Culture
+Politics
+World News
+Business
+U.S. News
+Local News
+Science
+Technology
+Health
+Economy
+Climate & Environment
+Lifestyle
+Education
+Travel
+Food
+Real Estate
+Obituaries
+Multimedia
+Books
+© 2024 - All Rights Reserved. Evrim Ağacı
+About Us
+Corrections
+Affiliate Disclosure
+Privacy Policy
+Terms of Use
+
+Area: 해외
+Title: [데이터 안전 활용/신기술] AI 에이전트를 둘러싼 개인정보 보호 위험 (Forbes, 03.11.)
+URL: https://www.forbes.com/sites/rashishrivastava/2025/03/11/the-prompt-privacy-risks-haunt-ai-agents/
+Content: INNOVATION
+EDITORS' PICK
+The Prompt: Privacy Risks ‘Haunt’ AI Agents
+Plus: AI search engines are terrible at citation.
+
+ByRashi Shrivastava,
+
+ Forbes Staff. 
+
+Rashi Shrivastava is a reporter covering AI and startups.
+Mar 11, 2025, 08:04pm EDTUpdated Mar 11, 2025, 08:05pm EDT
+
+Welcome back to The Prompt,
+
+Signal President Meredith Whittaker said AI agents pose a "profound" security risk, speaking at the SXSW 2025 Conference in Austin.
+
+(PHOTO BY SUZANNE CORDEIRO/AFP VIA GETTY IMAGES)
+
+For all the hype they’ve gotten, AI agents— software that can browse the web, operate multiple apps on your device and perform tasks on your behalf— are “haunted” by real security and privacy risks, Signal president Meredith Whittaker said at tech conference SXSW in Austin this week. Whittaker said these systems were like putting your “brain in a jar,” as AI agents need to be given access to sensitive data such as credit card information or phone contacts and also require access to use apps on your behalf. There currently aren’t encrypted models to send and receive that data, which has to be processed in the cloud, she said.
+
+Now let’s get into the headlines.
+
+BIG PLAYS
+
+After DeepSeek made waves in January, another Chinese AI startup called Butterfly Effect bubbled up on social media over the weekend with its demo of an AI agent dubbed Manus, which it claims can perform tasks like screening resumes, searching for properties and analyzing stock, mostly on its own. The AI system is reportedly built on top of existing AI models developed by other companies such as San Francisco-based Anthropic, rather than being trained from scratch. It doesn’t seem like there’s much substance to the hype, as many people who’ve tried out the tool have reported issues with simple tasks like ordering fast food or booking a flight.
+
+CHIP WARS
+
+Social media giant Meta has begun testing a new in-house chip, specifically designed to train AI models, in a bid to move away from its reliance on Nvidia’s hardware, Reuters reported. Meta, whose family of AI models called Llama reportedly crossed 600 million monthly users last year, is far from the only player designing its own silicon. OpenAI, Microsoft and Google have all invested billions into their own chips.
+
+DATA DILEMMAS
+
+It’s easy to discount the massive amounts of human labor that goes into developing artificial intelligence models. And as the models themselves get better and more capable at advanced tasks, so do the qualifications of those training them. $14 billion-valued data labelling company Scale AI, which helps companies like OpenAI, Google and Meta train models, is increasingly looking for domain experts–including people with PhDs–within the US instead of outsourcing and hiring contractors overseas, Forbes reported. The shift is part of CEO and billionaire Alex Wang’s new “America first” philosophy under the Trump administration.
+
+AI DEAL OF THE WEEK
+
+Lila Sciences, a Massachusetts- based startup building an AI system for scientific discovery, has raised $200 million in seed funding, the New York Times reported. The technology has been used to run experiments and create innovations across various fields.
+
+Also notable: ServiceNow has acquired enterprise AI software maker Moveworks for about $3 billion, Reuters reported.
+
+DEEP DIVE
+
+Tesla shouldn’t be seen as an electric car manufacturer anymore. It’s an AI company—if you believe CEO Elon Musk. His confidence is tied to a unique dataset: petabytes of video harvested from the company’s cars as Tesla customers log millions of driving miles worldwide.
+
+In theory, all that real-world data is exactly what Tesla needs to train its cars to operate without any human assistance, a goal that’s core to Musk's vision for the future of Tesla. But there’s a problem: That data isn’t necessarily as helpful as Musk claims. Some of it isn’t useful at all.
+
+Building AI that can drive a car as well as a human is a challenge dramatically different than building a natural language processing chatbot like ChatGPT, which was trained on billions of words scraped from the internet. While the goal with ChatGPT and competing systems like xAI’s Grok is to use pattern recognition to provide reliable information and answers to questions, the results often fall short in embarrassing ways. But if the AI controlling a vehicle screws up, people can die.
+
+Driving a car is a very different proposition with many more variables — driving conditions, weather, construction, changing traffic patterns, how other vehicles are moving. Successfully wrangling all those variables, and being ready to react to unexpected developments, is at the crux of autonomous driving AI. Training it on endless videos of people driving down highways doesn’t do much to help the AI learn how to handle what it most needs to: the edge cases that cause collisions or other dangerous scenarios.
+
+Yann LeCun, Meta’s chief AI scientist and a professor of computer science at New York University, also isn’t convinced that Tesla’s data gives it a competitive advantage.
+
+“The impact of data is generally overstated: as you get more data, performance improves, but there are diminishing returns,” he said. “A doubling of data volume brings marginal improvements that are still far from human reliability.” Even with massive amounts of data, no company has developed so-called Level-5 autonomy, the point at which a vehicle can drive itself in all the circumstances a human can.
+
+“Yet any 17-year-old can learn to drive in about 20 hours of practice,” said LeCun. “This tells you that current AI architectures are missing something big in their ability to understand the world and to learn from limited amounts of data or trials.’
+
+Huge amounts of camera data is helpful, but it doesn’t instantly make Tesla an AI market leader. “Having access to unique data feeds is certainly some kind of advantage,” said computer scientist Alex Ratner, CEO of Snorkel AI, which makes software to help automate labeling of raw data.
+
+Read the full story on Forbes.
+
+MODEL BEHAVIOR
+
+AI search engines fail miserably at citing news stories, according to a new study by Columbia Journalism Review (CJR), which pasted experts from 10 random articles into chatbots and asked them to identify the publisher, article and publication date. CJR ran sixteen hundred queries across eight AI systems including Perplexity, ChatGPT, Gemini and others. Grok was especially bad, answering 94% of the questions incorrectly. Even when they do cite sources, people aren’t really clicking through to them. AI search engines direct 96% less traffic than old school, non-AI Google, as we reported last week.
+
+Follow me on Twitter or LinkedIn. Send me a secure tip.
+Editorial Standards
+Forbes Accolades
+© 2025 Forbes Media LLC. All Rights Reserved.
+
+Area: 국내
+Title: [정책/제도] SNS 공개된 개인정보 수집 허용되나…딥시크 충격에 개인정보법 손질(뉴시스,03.09.)
+URL: https://n.news.naver.com/mnews/article/003/0013107797?sid=105
+Content: 본문 바로가기
+SNS 공개된 개인정보 수집 허용되나…딥시크 충격에 개인정보법 손질
+입력2025.03.09. 오전 9:30  수정2025.03.09. 오전 9:49 기사원문
+송혜리 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+개인정보보호법 개정안 2건 국회 상임위 접수…AI 학습에 개인정보 활용
+엄격한 보호장치·개인정보위 심의 거쳐야…보호와 활용 균형점 찾을 것
+[서울=뉴시스] 이미지 재판매 및 DB금지.
+
+
+[서울=뉴시스]송혜리 기자 = 중국 저비용 고성능 인공지능(AI) 모델 '딥시크' 가 전세계 정보기술(IT) 업계에 적잖은 충격을 준 가운데 국회에서 개인정보보호법 개정 움직임이 일고 있다. 우리나라 개인정보보호법은 전세계 어느 나라보다 깐깐하기로 소문나 있다. AI 개발과 서비스 운영에 장애요소로 꼽혀왔다.
+
+현재 국회 발의된 개인정보보호법 개정안은 주로 AI 학습 등에 데이터 활용을 보다 활성화하기 위한 내용들이 담겨있다. 가령 개인정보보호위원회의 심의를 거치면 AI 기술 개발과 성능 개선을 위해 개인정보를 사용할 수 있도록 하거나 소셜네트워크서비스(SNS) 등에 공개한 개인정보는 별도의 동의 없이 수집할 수 있도록 하되, 객관적으로 동의했다고 인정되는 범위 내에서만 허용하는 내용이 대표적이다.
+
+법 개정시 'AI 시대의 원유'라 불리는 데이터의 유통과 활용을 더욱 촉진될 것으로 전망된다. 특히 기존에 "쓸 데이터가 부족하다"고 지적해 온 IT업계에도 새로운 기회가 열릴 것으로 보인다.
+
+
+개보위 심의 거친 개인정보·SNS 공개된 개인정보 수집 허용 추진
+
+
+민병덕 더불어민주당 의원이 지난달 31일 대표발의한 개정안에서는 AI 기술 개발·성능 개선을 위해 개인정보를 활용할 수 있도록 하되, 개인정보 보호를 위한 안전조치와 엄격한 관리·감독을 강화하는 내용이 담겼다.
+
+구체적으로, 강화된 안전조치 및 정보주체의 권리 보장 방안 등을 마련해 개인정보보호위원회의 심의·의결을 거친다면, AI 등 기술 개발 및 성능 개선을 위해 적법하게 수집한 개인정보를 활용할 수 있도록 한다.
+
+다만, 이 과정에서도 정보주체의 권리 침해가 발생하지 않도록 사전적으로 개인정보 처리방침을 통해 처리 현황을 투명하게 공개하고, 일정규모 이상의 민감정보·고유식별정보 등이 포함된 경우에는 위험요인 등을 평가하도록 한다. 사후적으로는 개인정보보호위원회가 주기적으로 이행 점검 등 엄격한 관리·감독하도록 해 개인정보가 안전하게 처리되도록 한다.
+
+김태선 더불어민주당 의원이 이달 대표발의한 개정안에는 SNS 등에 공개된 개인정보는 동의 없이 수집할 수 있지만, 객관적으로 동의가 인정되는 범위 내에서만 허용해 AI 기술 발전과 개인정보 보호의 균형을 맞추도록 하고 있다.
+
+즉 SNS나 인터넷에 스스로 공개한 개인정보는 별도의 동의 없이 수집할 수 있도록 하되, 이를 사용할 수 있는 범위는 정보주체가 동의했다고 볼 수 있는 경우로 제한한다.
+
+
+정보주체 권리보호와 AI 기술 발전 간 균형 도모
+
+이번 법 개정으로 풍부한 데이터 환경이 조성됨에 따라 AI 연구개발이 더욱 가속화되고, 기업들이 보다 혁신적인 서비스를 창출할 수 있을 것이란 기대가 나온다.
+
+사회적 안전망 확보, 범죄예방 등 공익적 필요가 높은 분야, 산업경쟁력 제고를 위해 AI 기술 개발이 시급한 분야 등에서의 개인정보가 포함된 데이터 활용 필요성을 강조하는 목소리가 커져 왔기 때문이다.
+
+개인정보위 관계자는 "이용자의 정보를 수집할 때는 동의받은 목적 내에서만 사용할 수 있으며, 다른 목적으로 사용하려면 추가적인 법적 근거가 필요하다"면서 "특히, 인공지능 학습을 위한 정보 활용에는 별도의 동의가 필요한데, 일반적으로 이러한 동의를 받기가 어렵다"고 말했다. 이어 "그러나 무조건 허용할 수는 없기 때문에, 특정 조건하에서만 개인정보를 사용할 수 있도록 허용하는 법안들"이라고 설명했다．
+
+
+
+송혜리 기자(chewoo@newsis.com)
+
+기자 프로필
+ 송혜리 기자
+구독
+구독자 0 
+응원수 0
+
+현장으로부터
+
+Copyright ⓒ 뉴시스. All rights reserved. 무단 전재 및 재배포 금지.
+
+이 기사는 언론사에서 IT 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+뉴시스 언론사가 직접 선정한 이슈
+뉴시스 언론사홈 바로가기
+뉴시스 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 뉴시스
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: [데이터 안전 활용/신기술] 내 정보를 내가 원하는 곳으로…'전 분야 마이데이터' 본격 시행(연합뉴스,03.13.)
+URL: https://n.news.naver.com/mnews/article/001/0015262581?sid=102
+Content: 본문 바로가기
+내 정보를 내가 원하는 곳으로…'전 분야 마이데이터' 본격 시행
+입력2025.03.13. 오전 10:00  수정2025.03.13. 오전 10:01 기사원문
+이상서 기자
+ TALK
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+의료·통신 시작으로 내년 에너지 분야로 확대…유통은 도입 시기 미정
+
+
+
+개인정보보호위원회 명패
+[개인정보보호위원회 제공]
+
+
+(서울=연합뉴스) 이상서 기자 = 국민 누구나 본인의 정보를 원하는 곳에서 쓸 수 있도록 하는 '마이데이터'(개인정보 전송요구권) 사업이 의료·통신 분야를 시작으로 본격 추진된다.
+
+개인정보보호위원회는 2023년 3월 개인정보보호법 개정 시 도입된 '마이데이터' 제도를 13일부터 순차적으로 전 분야에 확대·시행한다고 밝혔다.
+
+마이데이터는 자신의 개인정보를 보유한 기업·기관에 그 정보를 당사자가 원하는 다른 곳으로 옮기도록 요구할 수 있는 서비스다. 금융과 공공분야에선 이미 도입됐다.
+
+그간 정보주체는 기업·기관이 제공하는 서비스 이용을 위해 개인정보 활용에 동의하고 나면 데이터 활용·관리에 적극적인 권리를 행사하기 어려웠다.
+
+이들의 데이터는 기업·기관별 칸막이에 가로막힌 탓에 데이터 유통 생태계가 활성화하는 데도 한계가 있었다.
+
+이에 개인정보위는 마이데이터 우선 도입 대상으로 의료, 통신, 에너지, 교통, 교육, 고용, 부동산, 복지, 유통, 여가 등 국민 생활과 밀접한 10대 중점분야를 선정했다.
+
+이 가운데 파급효과가 큰 의료와 통신 분야를 시작으로 내년 6월엔 에너지 분야를 추가로 시행할 방침이다.
+
+고용, 교육, 여가 분야의 경우 유관 부처 및 기업과 논의를 거쳐 연내 도입을 추진한다.
+
+다만 국내 고객정보의 해외 유출 우려 등이 제기됐던 유통을 비롯해 나머지 분야의 도입 시기는 미정이다.
+
+앞서 정보보안 학계를 중심으로 '마이데이터' 제도가 유통 분야에 도입될 경우 국내 이용자의 정보가 C커머스(중국 전자상거래업체)에 헐값에 팔릴 수 있다는 지적이 나온 바 있다.
+
+개인정보위 관계자는 "유관기관과 협의를 거쳐 나머지 분야에 대한 마이데이터 도입을 지속해서 확대해 나가겠다"고 밝혔다.
+
+개인정보위는 상반기 안에 마이데이터와 관련한 정보주체의 권리 행사를 지원하고자 '범정부 마이데이터 지원 플랫폼'을 개설하고, 이달 중 제도 안내서를 공개할 예정이다.
+
+오는 18일엔 국민과 기업을 대상으로 설명회도 연다.
+
+고학수 개인정보위 위원장은 "전 분야 마이데이터 시행을 통해 국민이 진정한 데이터의 주인이 될 것"이라며 "다양한 분야의 의견을 수렴해 국민이 체감할 수 있고 파급력이 큰 분야부터 점진적으로 확대하겠다"고 말했다.
+
+
+마이데이터 우선 추진 분야
+[개인정보보호위원회 제공]
+
+
+shlamazel@yna.co.kr
+
+
+
+이상서(shlamazel@yna.co.kr)
+
+기자 프로필
+ 이상서 기자
+TALK 
+
+응원의 한마디! 힘이 됩니다!
+
+응원
+구독
+구독자 0 
+응원수 0
+
+안녕하세요. 연합뉴스 이상서 기자입니다.
+
+Copyright ⓒ 연합뉴스. All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지.
+
+이 기사는 언론사에서 사회 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+연합뉴스 언론사가 직접 선정한 이슈
+연합뉴스 언론사홈 바로가기
+연합뉴스 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 연합뉴스
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: [개인정보 조사] 개인정보위 "BYD 등 스마트車 개인정보처리 실태점검 조속 진행"(연합뉴스, 03.07.)
+URL: https://n.news.naver.com/mnews/article/001/0015252028?sid=100
+Content: 본문 바로가기
+개인정보위 "BYD 등 스마트車 개인정보처리 실태점검 조속 진행"
+입력2025.03.07. 오후 2:42  수정2025.03.07. 오후 2:43 기사원문
+양정우 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+개인정보 유출 우려에 BYD 실태점검 대상에 추가
+BYD "개인정보 처리지침·이용자 매뉴얼 개선해 韓법규 충실 반영"
+
+
+
+중국 BYD 국내 승용차 시장 공식 진출
+(인천=연합뉴스) 임순석 기자 = 16일 오전 인천 중구 상상플랫폼에서 열린 'BYD 승용 브랜드 런칭 미디어 쇼케이스'에서 조인철 BYD 코리아 승용부문 대표(왼쪽) 등 관계자들이 아토 3 옆에서 포즈를 취하고 있다.
+BYD 코리아는 올해 아토 3, 씰, 씨라이언 7 등 총 3개 모델을 출시할 계획이다. 2025.1.16 soonseok02@yna.co.kr
+
+
+(서울=연합뉴스) 양정우 기자 = 개인정보보호위원회는 최근 국내에 진출한 중국산 스마트자동차인 BYD(비야디)의 개인정보 이슈가 제기됨에 따라 BYD를 포함한 스마트자동차 분야에 대한 실태점검을 조속히 진행할 계획이라고 7일 밝혔다.
+
+개인정보위는 이날 보도자료에서 이같이 밝히고 "우리 정보주체의 개인정보가 안전하게 보호되며 관련 서비스가 활성화되도록 만전을 기할 방침"이라고 덧붙였다.
+
+앞서 개인정보위는 BYD 차량의 개인정보 유출 우려가 제기되자 BYD코리아 측에 관련 내용을 문의했다.
+
+이에 BYD코리아는 "개인정보 처리방침과 이용자 매뉴얼 등의 개선작업에 이미 착수했으며, 국내에서 제품 출시 전까지 우리나라 개인정보 보호법을 충실히 반영할 계획"이라고 알려왔다고 개인정보는 전했다.
+
+개인정보위의 스마트자동차 실태점검 대상은 현대자동차, 기아자동차, 테슬라, 벤츠, BMW, BYD다. 이중 BYD를 제외한 나머지 브랜드의 실태점검은 개인정보위가 작년부터 진행해왔다.
+
+eddie@yna.co.kr
+
+
+
+양정우(eddie@yna.co.kr)
+
+기자 프로필
+양정우 기자
+ 양정우 기자
+구독
+구독자 0 
+응원수 0
+
+Copyright ⓒ 연합뉴스. All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지.
+
+이 기사는 언론사에서 정치, 사회, 경제 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+연합뉴스 언론사가 직접 선정한 이슈
+연합뉴스 언론사홈 바로가기
+연합뉴스 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 연합뉴스
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: [개인정보 조사] 200만명 가입자 인크루트 또 털렸다…개인정보위 "신고 접수, 유출 정황 확인중"(아시아경제,03.10.)
+URL: https://n.news.naver.com/mnews/article/001/0015252028?sid=100
+Content: 본문 바로가기
+개인정보위 "BYD 등 스마트車 개인정보처리 실태점검 조속 진행"
+입력2025.03.07. 오후 2:42  수정2025.03.07. 오후 2:43 기사원문
+양정우 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+개인정보 유출 우려에 BYD 실태점검 대상에 추가
+BYD "개인정보 처리지침·이용자 매뉴얼 개선해 韓법규 충실 반영"
+
+
+
+중국 BYD 국내 승용차 시장 공식 진출
+(인천=연합뉴스) 임순석 기자 = 16일 오전 인천 중구 상상플랫폼에서 열린 'BYD 승용 브랜드 런칭 미디어 쇼케이스'에서 조인철 BYD 코리아 승용부문 대표(왼쪽) 등 관계자들이 아토 3 옆에서 포즈를 취하고 있다.
+BYD 코리아는 올해 아토 3, 씰, 씨라이언 7 등 총 3개 모델을 출시할 계획이다. 2025.1.16 soonseok02@yna.co.kr
+
+
+(서울=연합뉴스) 양정우 기자 = 개인정보보호위원회는 최근 국내에 진출한 중국산 스마트자동차인 BYD(비야디)의 개인정보 이슈가 제기됨에 따라 BYD를 포함한 스마트자동차 분야에 대한 실태점검을 조속히 진행할 계획이라고 7일 밝혔다.
+
+개인정보위는 이날 보도자료에서 이같이 밝히고 "우리 정보주체의 개인정보가 안전하게 보호되며 관련 서비스가 활성화되도록 만전을 기할 방침"이라고 덧붙였다.
+
+앞서 개인정보위는 BYD 차량의 개인정보 유출 우려가 제기되자 BYD코리아 측에 관련 내용을 문의했다.
+
+이에 BYD코리아는 "개인정보 처리방침과 이용자 매뉴얼 등의 개선작업에 이미 착수했으며, 국내에서 제품 출시 전까지 우리나라 개인정보 보호법을 충실히 반영할 계획"이라고 알려왔다고 개인정보는 전했다.
+
+개인정보위의 스마트자동차 실태점검 대상은 현대자동차, 기아자동차, 테슬라, 벤츠, BMW, BYD다. 이중 BYD를 제외한 나머지 브랜드의 실태점검은 개인정보위가 작년부터 진행해왔다.
+
+eddie@yna.co.kr
+
+
+
+양정우(eddie@yna.co.kr)
+
+기자 프로필
+양정우 기자
+ 양정우 기자
+구독
+구독자 0 
+응원수 0
+
+Copyright ⓒ 연합뉴스. All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지.
+
+이 기사는 언론사에서 정치, 사회, 경제 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+연합뉴스 언론사가 직접 선정한 이슈
+연합뉴스 언론사홈 바로가기
+연합뉴스 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 연합뉴스
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: 인크루트서 또 개인정보 유출…"규모 확인 중"(지디넷코리아, 03.11.)
+URL: https://n.news.naver.com/mnews/article/092/0002366142?sid=105
+Content: 본문 바로가기
+인크루트서 또 개인정보 유출…"규모 확인 중"
+입력2025.03.11. 오전 9:22 기사원문
+안희정 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+2020년에도 '크리덴셜 스터핑' 공격 받아…개인정보위, 조사 착수 예정
+취업 플랫폼 인크루트에서 또 한번 개인정보 유출 사고가 발생했다. 다만 피해 규모와 해킹 수법 등은 조사 중이다.
+
+11일 관련업계에 따르면 지난 8일 오후부터 인크루트는 가입자들에게 "외부 공격에 의해 일부 고객 정보가 유출된 정황이 확인됐다"는 내용의 이메일을 보냈다.
+
+
+유출 시점과 경위 파악중…규모도 아직 몰라
+
+
+
+인크루트 사옥
+
+인크루트는 개인정보의 정확한 유출 시점과 경위는 관계 기관인 개인정보보호위원회(이하 개인정보위)와 협조해 조사 중이라고 알렸다.
+
+유출이 의심되는 개인정보 항목으로 성명, 생년월일, 성별, 휴대전화 번호 등이 포함되며, 개인별로 유출된 정보 항목에는 차이가 있을 수 있다.
+
+회사는 관련 IP 차단, 시스템 취약점 점검 및 보완, 시스템 모니터링 강화를 완료했다고도 덧붙였다. 또 피싱, 스미싱, 악성코드 등 2차 피해 가능성이 높아진 만큼 고객들에게 출처가 불분명한 전화, 메시지, 이메일 등에 각별한 주의를 당부했다.
+
+인크루트는 이번 사건을 계기로 정보 보호 투자를 확대하고, 최신 보안 기술을 도입하는 등 전사적인 보안 강화를 추진할 계획이라고 말했다. 또한, 보안 정책을 강화하고 보안 전문 인력을 보강하는 등 종합적인 대응 방안을 마련할 것이라고 밝혔다. 아울러 고객 및 관계 기관과의 투명한 소통을 지속해 추가 피해 방지 및 예방에 최선을 다하겠다고 강조했다.
+
+
+2020년 이후 또 해킹 발생...취준생 "해킹 관련 공지 미흡"
+
+
+
+인크루트 홈페이지 오른쪽 하단에 해킹 관련 공지사항
+
+인크루트는 2020년 9월 발생한 회원 개인정보 3만5천76건 유출사고로 2023년 7월에도 개인정보위로부터 과징금 7천60만원과 과태료 360만원을 부과받은 적 있다.
+
+당시 인크루트 측은 "개인정보 보호조치를 제대로 이행하지 않은 것은 아니고, '크리덴셜 스터핑' 공격을 차단하기 위한 침입 탐지나 차단 정책이 없었던 것도 아니다"라고 다소 억울해했다. 크리덴셜 스터핑 공격은 개인의 크리덴셜(인증정보)를 불법으로 수집한 후 이를 기반으로 다른 웹서비스에 무작위 로그인하는 사이버 공격 수법이다.
+
+이후 인크루트는 2023년 7월 구직자 개인정보 보호를 위해 개인정보위와 민관 협력 자율규제 규약에 서명하고, 법적 의무 사항 외에도 추가적 안전조치를 이행해 우수 사례를 창출해왔다.
+
+당시 인크루트는 개인정보 안전조치를 위해 개인정보가 포함된 파일을 다운로드 시 파일 암호화 설정을 강제 적용하고, 또 기업회원과 개인회원에게 해외 IP 로그인 차단 설정 기능과, 2차 인증을 개인회원까지 확대 적용했다.
+
+회사 측은 아직 정확한 피해 규모나 수법 등이 밝혀지지 않은 만큼, 추가적인 확인 사항이 있을 경우 가입자들에게 즉시 공지하겠다고 밝혔다.
+
+다만 취업준비생들 가입자들에게 해킹 사실을 알리기 위한 노력이 부족하다고 토로했다. 인크루트 해킹 관련 안내는 홈페이지 PC버전 오른쪽 하단에 작은 글씨의 팝업으로 게재돼 있으며, 앱에서는 어떤 공지도 찾아볼 수 없다는 지적이다.
+
+
+안희정 기자(hjan@zdnet.co.kr)
+
+기자 프로필
+ 안희정 기자
+구독
+구독자 0 
+응원수 0
+
+플랫폼, 유통(이커머스·홈쇼핑), 스타트업을 취재합니다. 채용·교육 분야에도 관심이 많습니다.
+
+Copyright ⓒ ZDNet Korea. All rights reserved. 무단 전재 및 재배포 금지.
+
+이 기사는 언론사에서 IT 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+지디넷코리아 언론사가 직접 선정한 이슈
+지디넷코리아 언론사홈 바로가기
+ZDNet Korea 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ ZDNet Korea
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: [개인정보 조사] 1000억원 과징금 못 내'…행정소송 패소한 구글·메타 고법에 항소(뉴시스,03.07.)
+URL: https://n.news.naver.com/article/003/0013105000?sid=105
+Content: 본문 바로가기
+'1000억원 과징금 못 내'…행정소송 패소한 구글·메타 고법에 항소
+입력2025.03.07. 오전 6:01  수정2025.03.07. 오전 7:21 기사원문
+송혜리 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+행정소송 패소 후 지난달 고등법원에 항소장 제출
+1000억원대 과징금 처분 취소 요구…'개인정보 수집 동의 주체, 우리 아냐'
+[서울=뉴시스] (사진=AP통신)
+
+
+[서울=뉴시스]송혜리 기자 = 글로벌 빅테크 구글과 메타가 우리나라 개인정보보호위원회를 상대로 제기했던 1000억원대 과징금 및 시정명령 취소 행정소송에서 패소하자 고등법원에 항소했다.
+
+이들 기업은 이용자들의 온라인 활동 기록을 수집해 맞춤형 광고에 활용한 행위로 처분을 받자, 정보 수집의 주체가 자신들이 아니라고 주장했다. 그러나 지난 1월 서울행정법원은 이 주장을 인정하지 않고 회사들의 청구를 모두 기각하며 개인정보위의 판단이 적법했다고 결론지었다.
+
+
+지난달 고법에 항소…"개인정보 수집 주체, 구글·메타 아니다"주장
+
+7일 개인정보위에 따르면 구글과 메타는 지난달 중순 서울고등법원에 항소장을 제출했다. 현재까지 법원은 첫 변론기일을 지정하지 않은 상태다. 이번 항소는 지난달 행정법원이 내린 1심 판결해 불복해 제기했다.
+
+이번 소송은 지난해 개인정보위가 이용자의 동의 없이 개인정보를 수집해 온라인 맞춤형 광고에 활용한 구글과 메타의 행위가 개인정보보호법을 위반했다고 판단하면서 시작됐다. 이에 따라 구글에는 692억원, 메타에는 308억원의 과징금을 각각 부과했다..
+
+구글의 경우, 서비스 가입 시 이용자의 웹사이트 방문 기록을 수집하고도 이를 명확히 고지하지 않았으며, 기본 설정을 '동의'로 미리 지정해둔 방식을 문제 삼았다. 메타 역시 계정 생성 시 이용자가 알아보기 어려운 형태로 데이터 정책에 개인정보 수집 관련 내용을 포함해 명확한 동의 절차를 거치지 않았다고 지적했다.
+
+구글과 메타는 즉각 반발하며 행정소송을 제기했다. 이들은 소송에서 개인정보위의 심의 과정에서 제시한 입장을 반복했다.
+
+구글과 메타는 개인정보 수집 동의를 받을 책임이 플랫폼 사업자인 자신들이 아니라, 웹사이트 및 앱 서비스 제공자에게 있다고 주장했다. 정보 수집 도구(SDK, 픽셀 등)를 제공하지만 이를 설치하고 활용하는 것은 웹·앱 사업자의 결정이라는 논리였다.
+
+또 자신들이 개인정보 수집에 대한 동의를 구할 책임이 있다 해도, 개인정보 수집 과정에서 적법한 고지와 동의 절차를 거쳤으며 개인정보위가 부과한 과징금이 과도하다고 반발했다.
+
+그러나 행정법원은 개인정보 수집 주체로서의 구글과 메타의 책임을 인정하며, 양사가 개인정보 수집 과정에서 명확한 동의 절차를 거치지 않았다고 판단했다. 아울러 과징금이 과도하거나 개인정보위의 권한을 남용했다는 주장 역시 받아들이지 않았다.
+
+구글과 메타의 항소에 개인정보위는 "1심 판결과 같이 국민들의 개인정보 결정권 보장은 중요한 과제로, 항소심에서도 이것이 유지 될 것으로 기대한다"고 말했다.
+
+일각에선 구글과 메타가 2심에서도 패소할 경우, 대법원까지 상고할 가능성이 높다는 전망까지 나온다. 실제 메타는 지난 2020년 11월 '페이스북 친구 정보를 동의없이 제3자 앱에 제공한 행위'로 과징금 67억원을 처분받자 행정소송을 제기했고, 1심에 이어 지난해 2심에서도 패소하자 대법원에 상고한 상태다．
+
+
+
+송혜리 기자(chewoo@newsis.com)
+
+기자 프로필
+ 송혜리 기자
+구독
+구독자 0 
+응원수 0
+
+현장으로부터
+
+Copyright ⓒ 뉴시스. All rights reserved. 무단 전재 및 재배포 금지.
+
+이 기사는 언론사에서 IT 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+뉴시스 언론사가 직접 선정한 이슈
+뉴시스 언론사홈 바로가기
+뉴시스 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 뉴시스
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: [데이터 안전 활용/신기술] 자율주행 R＆D 장애물 사라지나…'촬영영상 원본활용' 법안 발의(연합뉴스,03.09.)
+URL: https://n.news.naver.com/mnews/article/001/0015253986?sid=101
+Content: 본문 바로가기
+자율주행 R＆D 장애물 사라지나…'촬영영상 원본활용' 법안 발의
+입력2025.03.09. 오전 9:01  수정2025.03.09. 오전 9:01 기사원문
+홍규빈 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+"익명·가명 처리 안 해도 돼"…'실효성 지적' 규제샌드박스 대체
+
+
+
+자율주행의 핵심인 라이다센서와 카메라
+2024년 9월 25일 밤 서울 강남구 학여울역 인근에 정차된 강남 심야 자율주행택시의 원거리 라이다센서와 카메라 모습. [연합뉴스 자료사진]
+
+
+(서울=연합뉴스) 홍규빈 기자 = 자율주행차 연구개발(R＆D) 장애물로 꼽혀온 개인정보 관련 규제를 완화하는 법안이 발의된다.
+
+미국과 중국이 최근 자율주행 개발·상용화를 주도해온 가운데 한국이 글로벌 경쟁에서 추격의 발판을 마련하는 계기가 될지 주목된다.
+
+9일 업계와 정치권에 따르면 국회 국토교통위원회 소속 이소영 더불어민주당 의원은 이러한 내용을 담은 '자율주행자동차 상용화 촉진 및 지원법 개정안'을 내주 대표 발의할 예정이다.
+
+개정안은 대규모 개인정보 수집이 불가피한 자율주행차 R＆D에 한해 개인정보 보호법 규제를 완화하는 것이 골자다.
+
+개정안은 자율주행자동차 제작자 등은 자율주행시스템의 성능과 안전성을 향상하기 위한 목적으로 특정 개인정보가 포함된 영상정보를 수집할 수 있고, 수집된 영상정보를 익명 또는 가명 처리 등 비식별 처리를 하지 않고 활용할 수 있다고 명시했다.
+
+자율주행차가 운행 중 촬영한 영상을 R＆D에 활용할 때는 영상 속 사람이나 사물을 모자이크·블러(가림) 처리할 필요가 없다는 뜻이다.
+
+보행자의 시선이나 움직임 등을 분석하는 것이 자율주행 개발에 필수적인데, 이를 비식별화할 경우 연구 효율성이 크게 떨어진다는 것이 업계의 지적이었다.
+
+
+판교역 일대서 운영되는 자율주행 배달 로봇
+2024년 9월 9일 오후 경기도 성남시 판교역 일대에서 도심형 자율주행 로봇배달 서비스 시연이 진행되고 있다. [연합뉴스 자료사진]
+
+
+정부는 규제샌드박스를 통해 원본 활용을 일부 허용해왔지만, 그마저도 절차와 과정이 까다로워 실효성이 떨어진다는 비판을 받았다.
+
+개인정보보호위원회에 따르면 규제샌드박스를 통해 영상 원본을 활용할 경우 해당 업체는 외부 네트워크가 차단된 분리 공간에서만 처리해야 하고 전송망을 암호화하는 등의 안전조치를 지켜야 한다.
+
+한국자율주행산업협회 관계자는 "수백 명의 개발자가 외부망이 차단된 공간에서 작업하는 것은 현실적으로 어렵고, 인터넷 기반 자료를 활용하거나 개발자 간 데이터를 공유하는 것에도 제약이 발생한다"면서 "데이터가 클 경우 복호화(부호화된 데이터를 알기 쉬운 모양으로 되돌리는 것)하는 데 1시간 이상 소요되기도 한다"고 지적했다.
+
+이에 따라 개정안이 국회를 통과하면 주요국에 뒤처진 국내 자율주행 기술 수준이 반등할 수 있다는 기대감이 나온다.
+
+작년 정보통신기획평가원(IITP)의 '2022년도 ICT 기술 수준 조사 및 기술경쟁력 분석 보고서'에 따르면 한국의 자율주행차 기술은 미국 대비 89.4％ 수준으로 평가됐다. 유럽연합(98.3％), 중국(95.4％), 일본(89.7％) 등보다 낮았다.
+
+미국 테슬라는 올해 6월 완전자율주행 소프트웨어 FSD(Full Self Driving)를 이용한 로보(무인)택시 서비스를 출시할 계획이고, 중국 BYD는 전 차종에 자율주행 시스템 '신의눈'(天神之眼)을 탑재하겠다고 밝힌 상태다.
+
+
+자율주행의 핵심인 라이다센서
+2024년 9월 25일 밤 서울 강남구 학여울역 인근에 정차된 강남 심야 자율주행택시의 근접 라이다센서 모습. [연합뉴스 자료사진]
+
+
+bingo@yna.co.kr
+
+
+
+홍규빈(bingo@yna.co.kr)
+
+기자 프로필
+홍규빈 기자
+ 홍규빈 기자
+구독
+구독자 0 
+응원수 0
+
+Copyright ⓒ 연합뉴스. All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지.
+
+이 기사는 언론사에서 경제, IT, 정치 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+연합뉴스 언론사가 직접 선정한 이슈
+연합뉴스 언론사홈 바로가기
+연합뉴스 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 연합뉴스
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: [데이터 안전 활용/신기술] 업계 주목받는 양자내성암호…“양자컴 해킹 공격 막고 데이터 보호” (국민일보, 03.12.)
+URL: https://n.news.naver.com/mnews/article/005/0001762469?sid=101
+Content: 본문 바로가기
+업계 주목받는 양자내성암호…“양자컴 해킹 공격 막고 데이터 보호”
+입력2025.03.12. 오전 5:01 기사원문
+조민아 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+
+양자컴퓨터 시대가 본격 도래하면 기존 암호 체계는 무력화될 것이라는 우려가 커지면서 양자내성암호(Post-Quantum Cryptography·PQC) 분야가 떠오르고 있다. 양자내성암호란 양자컴퓨터로도 풀기 어려운 수학적 알고리즘을 기반으로 해킹을 막고 데이터를 보호할 수 있는 기술이다.
+
+11일 업계에 따르면 최근 국내 통신사와 정보기술(IT) 기업은 양자내성암호 사업에 주목하고 있다. LG유플러스는 세계 최대 이동통신 전시회 ‘모바일 월드 콩그레스(MWC) 2025’에서 PQC 기술을 적용한 기업 계정 관리 솔루션 ‘알파키’를 선보였다. 알파키는 기업의 클라우드 기반 환경에서 임직원의 업무 계정 권한을 자동 관리하고, PQC를 통해 보안을 강화한 서비스다. 예컨대 알파키를 이용하면 임직원 신원 확인 후 접근 권한을 부여할 수 있고, 퇴사자 등 권한이 없는 사람의 접속을 자동으로 제한할 수 있다. 이 과정에 필요한 사용자 인증이나 개인정보 접근을 PQC 기술로 암호화한 것이다.
+
+
+LG유플러스는 지난해 PQC 기반 가상 사설망(VPN) 서비스도 상용화했다. LG유플러스 관계자는 “PQC는 소프트웨어 중심 기술로 추가 장비 없이 기존 네트워크에 통합할 수 있어 비용 측면에서 강점을 지닌다”고 설명했다.
+
+삼성SDS는 한국과학기술원(KAIST)과 산학 협력으로 개발한 ‘AIMer(에이머)’ 알고리즘이 한국형 PQC 국가공모전에서 전자서명용 분야의 최종 알고리즘으로 선정됐다고 11일 밝혔다. 해당 공모전은 한국형 PQC를 확보하기 위해 개최됐다.
+
+에이머는 자체 개발한 일방향 함수 기반 암호 알고리즘으로, 수학적 난제 방식의 알고리즘보다 더 안전하다고 삼성SDS는 설명했다. PQC는 보통 수학적 난제를 활용해 양자컴퓨터가 풀어내는 데 오랜 시간이 걸리도록 하는데, 이보다 발전된 형식이라는 뜻이다. 삼성SDS 관계자는 “삼성 클라우드 플랫폼의 통신 구간에 PQC를 시범 적용했고, 지속적으로 확대할 방침”이라고 말했다.
+
+선정된 알고리즘은 국가정보원, 과학기술정보통신부이 발표한 ‘범국가 양자내성암호 전환 마스터플랜’에 따라 국내외 기준에 맞게 표준화가 추진된다. 과기정통부 등 관계 부처는 2035년까지 국내 암호체계를 PQC로 전환하기 위한 종합 대책을 지난 2023년 수립한 바 있다.
+
+정부 차원에서도 PQC 기술 개발 활성화에 나섰다. 과기정통부는 지난달 말 한국인터넷진흥원(KISA)과 ‘양자내성암호 시범전환 지원사업’을 추진하겠다고 밝혔다. 2년 전 세운 마스터플랜의 일환으로, 올해부터 2028년까지 의료, 국방, 금융 등 산업 분야별 PQC 시범전환 사업을 진행할 계획이다.
+
+조민아 기자(minajo@kmib.co.kr)
+
+기자 프로필
+ 조민아 기자
+구독
+구독자 0 
+응원수 0
+
+안녕하세요. 국민일보 조민아입니다. ‘얻을 수 있는 최선의 진실’(the best obtainable version of the truth)을 쫓겠습니다.
+
+Copyright ⓒ 국민일보. All rights reserved. 무단 전재 및 재배포 금지.
+
+이 기사는 언론사에서 경제 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+국민일보 언론사가 직접 선정한 이슈
+국민일보 언론사홈 바로가기
+국민일보 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 국민일보
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+
+Area: 국내
+Title: [데이터 안전 활용/신기술] 중국 AI 비서 마누스, '딥시크 수준 충격'? "과대평가" 의견도(한국일보, 03.11.)
+URL: https://n.news.naver.com/mnews/article/469/0000853034?sid=105
+Content: 본문 바로가기
+중국 AI 비서 마누스, '딥시크 수준 충격'? "과대평가" 의견도
+입력2025.03.11. 오전 4:32 기사원문
+이서희 기자
+댓글
+본문 요약봇
+글자 크기 변경하기
+SNS 보내기
+인쇄하기
+중국 AI 스타트업 모니카가 개발
+"인간 보조 아닌 대체하는 시스템"
+이용자들은 "만능 아니다" 회의적
+중국 인공지능 스타트업 모니카의 이차오 피크 지 연구원이 자사가 개발한 인공지능 비서 마누스를 소개하고 있다. 마누스 홈페이지 캡처
+
+
+중국의 인공지능(AI) 스타트업이 공개한 AI 비서 '마누스'(Manus)가 비상한 관심을 끌고 있다. 챗GPT나 딥시크 같은 AI 챗봇이 이용자와의 대화를 바탕으로 명령을 수행하는 AI라면, AI 비서는 명령 없이도 능동적으로 판단하고 행동하는 AI를 말한다. 범용인공지능(AGI)에 보다 가까워진 형태다. 마누스의 등장을 두고 '저비용·고효율 AI 모델로 세상을 놀라게 한 딥시크의 출현을 연상케 한다'는 평가가 이어진 가운데, '딥시크급 충격에는 미치지 못할 것'이라는 분석에도 힘이 실리고 있다.
+
+
+세계 첫 완전 자율 AI 비서?
+
+
+9일(현지시간) 미국 포브스 등에 따르면, 중국 AI 스타트업 모니카는 지난 5일 자칭 '세계 최초의 완전 자율형 AI 비서'인 마누스를 공개했다. 모니카는 "마누스는 인간을 단순히 보조하는 것이 아니라 대체하는 시스템"이라며 "재무 분석에서부터 채용 후보자 검토까지, 디지털 세상을 자유롭게 탐색하며 전문가들도 따라가기 어려운 속도와 정확성으로 결정을 내린다"고 소개했다. 범용인공지능(AGI) 성능 평가(GAIA 벤치마크)에서 오픈AI의 딥리서치보다 높은 성적을 받았다고도 주장했다. 오픈AI가 지난달 공개한 딥리서치는 이용자를 대신해 인터넷상에서 여러 단계에 걸친 복잡한 조사를 수행할 수 있는 도구다.
+
+모니카의 시연 영상을 보면, 마누스는 이용자의 명령에 맞춰 필요한 프로그램이나 정보 등을 알아서 찾아 작업을 수행한다. 가령 이력서 파일들을 마누스에 입력한 뒤 "AI 엔지니어를 추천해줘"라고 주문할 경우, 마누스는 각 이력서를 읽고 지원자별 강점을 추출한 뒤 최근 취업시장 동향과 교차 검토해 적합한 후보를 추천해 준다.
+
+
+"빅테크 AI 모델 조합해 개발"
+
+
+모니카가 엑스(X)를 통해 공개한 마누스 소개 영상은 게재된 지 20시간 만에 40만 회 가까이 재생됐다. 테크업계에서는 "딥시크만큼 인상적인 AI"라는 반응이 나왔다. 딥시크는 지난 1월 고도의 기술력을 필요로 하는 추론형 AI 모델을 실리콘밸리 빅테크들보다 적은 비용으로 개발했다고 발표해 주목받았다. 포브스는 "딥시크는 중국 연구자들이 대규모 언어 모델(LLM) 기술에서 (미국과의) 격차를 좁히고 있다는 첫 번째 신호였다"며 마누스에 대해 "두 번째 딥시크 모멘트(moment·순간)"라고 전했다.
+
+그러나 일각에서는 마누스가 과대평가 됐다는 주장도 나오고 있다. 미국 기술전문매체 테크크런치는 이날 '아마도 마누스는 두 번째 딥시크 모멘트가 아닐 것'이라는 제하의 기사에서 "초기 이용자들은 마누스가 만능이 아니라는 반응을 보이고 있다"고 전했다. 딥시크와 달리 마누스는 △모니카가 자체 개발한 AI 모델 기반이 아니고 △기술 정보가 오픈소스로 공개되지도 않았으며 △기본적인 오류를 너무 자주 범한다고 매체는 지적했다. 모니카는 미국 앤스로픽의 클로드와 중국 알리바바의 큐원 등 기존 AI 모델을 조합하고 미세 조정해 마누스를 개발했다고 한다.
+
+
+
+실리콘밸리= 이서희 특파원 (shlee@hankookilbo.com)
+
+기자 프로필
+ 이서희 기자
+구독
+구독자 0 
+응원수 0
+
+실리콘밸리 특파원
+
+Copyright ⓒ 한국일보. All rights reserved. 무단 전재 및 재배포 금지.
+
+이 기사는 언론사에서 IT 섹션으로 분류했습니다.
+ 주요뉴스
+해당 언론사에서 선정하며 언론사 페이지(아웃링크)로 이동해 볼 수 있습니다.
+이 기사를 추천합니다
+한국일보 언론사가 직접 선정한 이슈
+한국일보 언론사홈 바로가기
+한국일보 헤드라인
+3
+
+로그인  전체서비스
+서비스안내  오류신고  고객센터
+기사배열 책임자 : 김수향 청소년 보호 책임자 : 이정규
+각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 한국일보
+이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+NAVER
+

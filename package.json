@@ -1,0 +1,25 @@
+{
+  "name": "scrape_and_summarize_webpage_with_ai",
+  "version": "1.0.0",
+  "description": "scrape_and_summarize_webpage_with_ai",
+  "homepage": "https://github.com/LEEBONGHAK/scrape_and_summarize_webpage_with_ai#readme",
+  "bugs": {
+    "url": "https://github.com/LEEBONGHAK/scrape_and_summarize_webpage_with_ai/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEEBONGHAK/scrape_and_summarize_webpage_with_ai.git"
+  },
+  "license": "ISC",
+  "author": "LEEBONGHAK",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.94.0",
+    "puppeteer": "^24.6.1"
+  }
+}

@@ -1,0 +1,57 @@
+<해외>
+Canada: Government launches consultation on implementing Global CBPR Forum certifications for cross-border data flows
+https://www.dataguidance.com/node/643042
+
+EU: EPRS publishes document on challenges to UK data adequacy
+https://www.dataguidance.com/node/643043
+
+California: CPPA fines Honda $632,000 for CCPA violations
+https://www.dataguidance.com/news/california-cppa-fines-honda-632000-ccpa-violations
+
+[개인정보 조사] International: Honda, CPPA와 개인정보 보호 위반 관련 합의 (CPPA,03.12.)
+https://cppa.ca.gov/announcements/2025/20250312.html
+
+[정책/제도] 미국: 위치 정보 보호 강화 추진 (IAPP, 03.08.)
+https://iapp.org/news/a/geolocation-privacy-takes-center-stage-on-us-regulators-agendas/
+
+[정책/제도] 멕시코: 개인 정보 보호를 위한 새로운 기관 설립 (IAPP, 03.11.)
+https://iapp.org/news/a/new-authority-established-for-personal-data-protection-in-mexico
+
+[데이터 안전 활용/신기술] 스페인: 정부, AI법 초안 승인(MTDFP,03.12.)
+https://digital.gob.es/portalmtdfp/comunicacion/sala-de-prensa/comunicacion_ministro/2025/03/2025-03-11.html
+
+[데이터 안전 활용/신기술] 중국: 최초의 완전 자율 AI 에이전트 'Manus' 공개 (THE PINNACLE GAZETTE, 03.11.)
+https://evrimagaci.org/tpg/china-unveils-manus-the-first-truly-autonomous-ai-agent-257912#google_vignette
+
+[데이터 안전 활용/신기술] AI 에이전트를 둘러싼 개인정보 보호 위험 (Forbes, 03.11.)
+https://www.forbes.com/sites/rashishrivastava/2025/03/11/the-prompt-privacy-risks-haunt-ai-agents/
+
+
+
+<국내>
+[정책/제도] SNS 공개된 개인정보 수집 허용되나…딥시크 충격에 개인정보법 손질(뉴시스,03.09.)
+https://n.news.naver.com/mnews/article/003/0013107797?sid=105
+
+[데이터 안전 활용/신기술] 내 정보를 내가 원하는 곳으로…'전 분야 마이데이터' 본격 시행(연합뉴스,03.13.)
+https://n.news.naver.com/mnews/article/001/0015262581?sid=102
+
+[개인정보 조사] 개인정보위 "BYD 등 스마트車 개인정보처리 실태점검 조속 진행"(연합뉴스, 03.07.)
+https://n.news.naver.com/mnews/article/001/0015252028?sid=100
+
+[개인정보 조사] 200만명 가입자 인크루트 또 털렸다…개인정보위 "신고 접수, 유출 정황 확인중"(아시아경제,03.10.)
+https://n.news.naver.com/mnews/article/001/0015252028?sid=100
+
+인크루트서 또 개인정보 유출…"규모 확인 중"(지디넷코리아, 03.11.)
+https://n.news.naver.com/mnews/article/092/0002366142?sid=105
+
+[개인정보 조사] 1000억원 과징금 못 내'…행정소송 패소한 구글·메타 고법에 항소(뉴시스,03.07.)
+https://n.news.naver.com/article/003/0013105000?sid=105
+
+[데이터 안전 활용/신기술] 자율주행 R＆D 장애물 사라지나…'촬영영상 원본활용' 법안 발의(연합뉴스,03.09.)
+https://n.news.naver.com/mnews/article/001/0015253986?sid=101
+
+[데이터 안전 활용/신기술] 업계 주목받는 양자내성암호…“양자컴 해킹 공격 막고 데이터 보호” (국민일보, 03.12.)
+https://n.news.naver.com/mnews/article/005/0001762469?sid=101
+
+[데이터 안전 활용/신기술] 중국 AI 비서 마누스, '딥시크 수준 충격'? "과대평가" 의견도(한국일보, 03.11.) 
+https://n.news.naver.com/mnews/article/469/0000853034?sid=105
